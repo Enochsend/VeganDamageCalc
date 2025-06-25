@@ -2,7 +2,7 @@
 Public Class Form1
     ' Define Constants
     Const r As Double = 100          ' Maximum damage rate (scaling factor)
-    Const k As Double = 0.4         ' Sensitivity factor (controls how fast damage escalates)
+    Const k As Double = 0.00025      ' Sensitivity factor (controls how fast damage escalates)
     Const t_0 As Double = 42        ' Threshold time before damage begins to show
     Const alpha As Double = 2       ' Synergy coefficient for B12 and Omega-3 deficiencies
     Const max_damage As Double = 100 ' Maximum possible damage (for scaling)
@@ -15,11 +15,6 @@ Public Class Form1
 
     ' Function to calculate Neurological Damage at time t
     Function CalculateDamage(t As Double) As Double
-        Const r As Double = 537
-        Const k As Double = 0.00025
-        Const t_0 As Double = 42
-        Const max_damage As Double = 100
-
         Dim sigmoid As Double
         sigmoid = 1 / (1 + Math.Exp(-k * (t - t_0)))
 
