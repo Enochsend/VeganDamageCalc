@@ -10,6 +10,8 @@ Public Class Form1
     ' Deficiency levels (calculated) citation references:
     ' https://pmc.ncbi.nlm.nih.gov/articles/PMC8746448/
     ' https://pmc.ncbi.nlm.nih.gov/articles/PMC9320578/
+    ' https://pmc.ncbi.nlm.nih.gov/articles/PMC4042564/
+    ' 
     Const b12_deficiency As Double = 0.167    ' 16.7% B12 deficiency given the required daily intake of 2.4 mcg to the average vegan intake of 0.4 mcg
     Const omega3_deficiency As Double = 0.0068 ' 0.68% Omega-3 deficiency given the required daily intake of 1.1g to the average vegan intake of 7.3mg
 
