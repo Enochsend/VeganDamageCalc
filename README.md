@@ -27,3 +27,6 @@ https://www.tandfonline.com/doi/full/10.1080/27697061.2025.2461218
 https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.819106/full
 https://www.mdpi.com/2674-0311/3/2/10
 https://renaissance.stonybrookmedicine.edu/system/files/Diet-Based+Nutritional+Deficiencies.pdf
+
+
+veg oils and cvd: https://pmc.ncbi.nlm.nih.gov/articles/PMC6196963/
