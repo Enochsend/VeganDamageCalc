@@ -30,3 +30,4 @@ https://renaissance.stonybrookmedicine.edu/system/files/Diet-Based+Nutritional+D
 
 
 veg oils and cvd: https://pmc.ncbi.nlm.nih.gov/articles/PMC6196963/
+https://pubmed.ncbi.nlm.nih.gov/8960090/
