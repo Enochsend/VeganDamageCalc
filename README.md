@@ -31,3 +31,10 @@ https://renaissance.stonybrookmedicine.edu/system/files/Diet-Based+Nutritional+D
 
 veg oils and cvd: https://pmc.ncbi.nlm.nih.gov/articles/PMC6196963/
 https://pubmed.ncbi.nlm.nih.gov/8960090/
+
+
+bone mineral density
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9388819/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7924854/
+https://www.sciencedirect.com/.../pii/S0002916523048785
+https://www.frontiersin.org/.../fnut.2024.1390773/full
